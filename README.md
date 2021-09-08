@@ -3,4 +3,4 @@ I made a small python webscraping script for a particular website. If u run the 
 Its my first time doing something THIS fancy so any comments/ideas are welcomed ^.^ 
 
 
-This is the website that i used: https://www.pickuplimes.com and i highly reccomend the recipes 🥺❤
+This is the website that i used: https://www.pickuplimes.com and i highly recommend the recipes 🥺❤
